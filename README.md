@@ -1,6 +1,5 @@
 # PDF Content Label + Query UI
 
-Objective
 This project enables users to upload a PDF document and ask natural-language questions to extract specific information like names, dates, email addresses, company names, or summaries using NLP and pattern matching.
 
 ## Features
@@ -9,7 +8,6 @@ This project enables users to upload a PDF document and ask natural-language que
 - Label content using:
   - Named Entity Recognition (spaCy)
   - Regex for phone, email, URL, etc.
-  - Smart fallback logic for names and summaries
 - Ask queries like:
   - "Who is the applicant?"
   - "What is the phone number?"
